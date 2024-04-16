@@ -16,3 +16,11 @@ NOTE: To install `tweepy`, simply run `sudo install pip tweepy` in the terminal 
 1. Change the application type from `Read only` to `Read and write`.
 2. Head to https://apps.twitter.com.
 3. In the “Keys and Access Tokens” tab, get the Consumer Key, Consumer Secret, Access Token and Access Token Secret.
+
+
+## Implementation
+
+CLI:
+
+- Run `python3 TweetR.py` if you have Mac/Linux.
+- Run `python TweetR.py` if you have Windows.
