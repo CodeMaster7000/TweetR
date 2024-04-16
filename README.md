@@ -7,7 +7,7 @@ A Python program, brought to you by CodeMaster7000 Labs, to send a tweet from yo
 ## Prerequisites
 
 - Python 3
-- Python API (tweepy)
+- Tweepy API
 
 NOTE: To install `tweepy`, simply run `sudo install pip tweepy` in the terminal or command prompt.
 
