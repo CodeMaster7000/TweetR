@@ -2,12 +2,13 @@
 
 ## About
 
-A Python program, brought to you by CodeMaster7000 Labs, to send a tweet from your Python shell.
+A set of Python programs, brought to you by CodeMaster7000 Labs, to send tweets from your Python shell.
 
 ## Prerequisites
 
 - Python 3
 - Tweepy API
+- Twitter API (`Twython`): can be installed simply with `pip install twython`
 
 NOTE: To install `tweepy`, simply run `sudo install pip tweepy` in the terminal or command prompt.
 
@@ -20,7 +21,4 @@ NOTE: To install `tweepy`, simply run `sudo install pip tweepy` in the terminal 
 
 ## Implementation
 
-CLI:
-
-- Run `python3 TweetR.py` if you have Mac/Linux.
-- Run `python TweetR.py` if you have Windows.
+Donwload the code and run your desired program. Enjoy!
