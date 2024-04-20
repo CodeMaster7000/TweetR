@@ -7,8 +7,8 @@ A set of Python programs, brought to you by CodeMaster7000 Labs, to send tweets 
 ## Prerequisites
 
 - Python 3
-- Tweepy API (`tweepy`) - can be installed simply with `pip install tweepy`
-- Twitter API (`Twython`) - can be installed simply with `pip install twython`
+- Tweepy API (`tweepy`) - can be installed simply with `pip install tweepy`.
+- Twitter API (`Twython`) - can be installed simply with `pip install twython`.
 
 ### Setting up your API
 
