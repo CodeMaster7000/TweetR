@@ -7,17 +7,14 @@ A set of Python programs, brought to you by CodeMaster7000 Labs, to send tweets 
 ## Prerequisites
 
 - Python 3
-- Tweepy API
+- Tweepy API (`tweepy`): can be installed simply with `pip install tweepy`
 - Twitter API (`Twython`): can be installed simply with `pip install twython`
 
-NOTE: To install `tweepy`, simply run `sudo install pip tweepy` in the terminal or command prompt.
-
-### Setting up Tweepy
+### Setting up your API
 
 1. Change the application type from `Read only` to `Read and write`.
 2. Head to https://apps.twitter.com.
-3. In the “Keys and Access Tokens” tab, get the Consumer Key, Consumer Secret, Access Token and Access Token Secret.
-
+3. In the “Keys and Access Tokens” tab, get your Consumer Key, Consumer Secret, Access Token and Access Token Secret.
 
 ## Implementation
 
